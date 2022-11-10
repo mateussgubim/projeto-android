@@ -62,7 +62,7 @@ header > p {
     max-width: 60rem;
     padding: 0 1rem;
     margin: auto;
-    margin-bottom: 2rem;
+    padding-bottom: 4rem;
     text-shadow: 0.2rem 0.2rem 0 #0000006c;
 
 }
